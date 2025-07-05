@@ -16,7 +16,7 @@ This project deepened my skills in using *Pivot Tables, Slicers, and Dashboard D
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 1. Image posts gained the highest average likes and comments.
 2. Evening slots showed peak engagement across platforms.
@@ -53,9 +53,9 @@ All dashboards are powered by Pivot Charts and Slicers for dynamic interactivity
 
 ## Project Files
 
-- Social_Media_Dashboard.xlsx – Final dashboard project  
-- Cleaned_Data.xlsx – Prepared dataset  
-- screenshots/ – Dashboard previews
+- Social_Media_Engagement_Dashboard.xlsx – Final dashboard project  
+- Social_Media_Dataset.xlsx– Orginal dataset  
+- screenshots – Dashboard previews
 
 ---
 
